@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://samanwaykoley.github.io/orbittype/sitemap.xml
+Sitemap: https://samanway-koley.github.io/orbittype/sitemap.xml
